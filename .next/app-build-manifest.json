@@ -1,0 +1,31 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/74729_next_dist_cd017789._.js",
+      "static/chunks/borrow-return_app_favicon_ico_mjs_dbf97d22._.js",
+      "static/chunks/[root-of-the-server]__0df0d8af._.css",
+      "static/chunks/74729_fe15be00._.js",
+      "static/chunks/74729_@wagmi_core_dist_esm_640e250a._.js",
+      "static/chunks/74729_@tanstack_query-core_build_modern_61afd22c._.js",
+      "static/chunks/74729_@rainbow-me_rainbowkit_dist_853f00ab._.js",
+      "static/chunks/74729_viem__esm_1ed22706._.js",
+      "static/chunks/74729_@noble_curves_esm_1327b07a._.js",
+      "static/chunks/74729_ox__esm_9e53d18a._.js",
+      "static/chunks/74729_5b459875._.js",
+      "static/chunks/borrow-return_9f4cd444._.js",
+      "static/chunks/borrow-return_app_layout_tsx_001f6d16._.js",
+      "static/chunks/74729_next_dist_client_components_builtin_global-error_f23cdff5.js",
+      "static/chunks/borrow-return_b07ff59f._.js",
+      "static/chunks/borrow-return_app_page_tsx_f23cdff5._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_9e76babe._.js",
+      "static/chunks/74729_next_dist_compiled_react-dom_32100515._.js",
+      "static/chunks/74729_next_dist_compiled_next-devtools_index_046b1239.js",
+      "static/chunks/74729_next_dist_compiled_91e8062a._.js",
+      "static/chunks/74729_next_dist_client_c380d746._.js",
+      "static/chunks/74729_next_dist_cc56145f._.js",
+      "static/chunks/74729_@swc_helpers_cjs_264358f2._.js",
+      "static/chunks/borrow-return_a0ff3932._.js",
+      "static/chunks/turbopack-borrow-return_6b17ac3a._.js"
+    ]
+  }
+}
