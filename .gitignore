@@ -1,0 +1,6 @@
+/.next
+.env
+/node_modules
+next-env.d.ts
+
+
